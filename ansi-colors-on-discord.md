@@ -1,6 +1,6 @@
 __**Messages with colors:**__
 
-Discord is now slowly rolling out the ability to send colored messages within code blocks. It uses the ANSI color codes, so if you've tried to print colored text in your terminal or console with Python or other languages then it will be easy for you.
+Discord is now slowly rolling out the ability to send colored messages within code blocks (so not everyone has access to use it, yet). It uses the ANSI color codes, so if you've tried to print colored text in your terminal or console with Python or other languages then it will be easy for you.
 
 To be able to send a colored text, you need to use the `ansi` language for your code block and provide a prefix of this format before writing your text:
 ```
@@ -49,7 +49,7 @@ or<br>
 \`\`\`
 
 Result:<br>
-![Background and text color](https://media.discordapp.net/attachments/739937507768270939/930460020603224084/Background-Text-Color.png)
+![Background and text color]()
 
 The way the colors look like on Discord is shown in the image below ^^
 
